@@ -80,7 +80,7 @@ Just type `-o` for output file (.txt)
 
 ### Buy me a coffee: :money_with_wings:
 
-https://www.buymeacoffee.com/alpkeskin
+
 
 #### Tested on:
 
